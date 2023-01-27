@@ -1,0 +1,10 @@
+.main{
+    background: #000;
+}
+.box{
+    background: red;
+    color: azure;
+}
+#file::-webkit-file-upload-button{
+    visibility: hidden;
+}
